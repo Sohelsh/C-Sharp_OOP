@@ -27,7 +27,7 @@ namespace Classes_And_Objects
             Console.WriteLine("Enter Standard =");
             this.Std = int.Parse(Console.ReadLine());
         }
-
+          
         public void GetStudent()
         {
             Console.WriteLine("\n Your Roll Is : {0}", this.Roll_NO);
